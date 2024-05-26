@@ -1,4 +1,4 @@
-## README
+## LSTM Stock Predictor
 
 This code generates ML predictions for historical stock prices using Keras, NumPy, and Pandas.
 
